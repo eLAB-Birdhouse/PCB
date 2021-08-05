@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name RTL8152B-VB)(type Legacy)(uri ${KIPRJMOD}/library/RTL8152B-VB.lib)(options "")(descr ""))
+  (lib (name Module_LM2596HVS)(type Legacy)(uri ${KIPRJMOD}/library/Module_LM2596HVS.lib)(options "")(descr ""))
 )
